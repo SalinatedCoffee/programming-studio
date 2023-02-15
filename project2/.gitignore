@@ -1,0 +1,20 @@
+node_modules/**/*
+.vscode/*
+.expo/*
+assets/*
+npm-debug.*
+.babelrc
+__snapshots__/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+.env
+app.json
+babel.config.js
+
+# macOS
+.DS_Store
