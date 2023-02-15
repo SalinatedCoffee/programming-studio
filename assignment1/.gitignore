@@ -1,0 +1,6 @@
+/.vscode/
+/src/__pycache__
+/src/.env
+/local/
+/.DS_Store
+/json/
